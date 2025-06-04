@@ -1,6 +1,6 @@
 # 📚 Library Management System
 
-This repository hosts a **Library Management System** built using **C++ and Qt Framework** 🌐, developed as part of our **Project-Based Learning (PBL)** for the *Operating Systems* course at **Graphic Era University** 🏫.
+This repository hosts a **Library Management System** built using **C++ and Qt Framework** 🌐
 
 📖 The system provides a GUI-based platform for **managing books, students, and issue/return records** efficiently. It's designed to simulate real-world library workflows with features such as **book search**, **student record management**, and **borrowing tracking**.
 
