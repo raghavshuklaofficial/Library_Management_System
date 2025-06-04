@@ -52,7 +52,7 @@ Library_Management_System/
 ├── Library_System.pro           # Qt project file
 ├── icons/                       # UI icons and image assets
 ├── database.db                  # SQLite database storing all data
-└── README.md                    # 📄 You're here!
+└── README.md                    # Project documentation and setup guide
 ```
 
 ---
@@ -64,12 +64,6 @@ Library_Management_System/
 | 💻 C++                 | Core logic & OOP structure            |
 | 🖼️ Qt (Qt Widgets)    | UI layout, signals/slots, and forms   |
 | 🗃️ SQLite (via QtSQL) | Lightweight DB for persistent storage |
-
----
-
-## 🖼️ Screenshots
-
-> *(Add screenshots in future to show key screens like Add Book, Issue Book, etc.)*
 
 ---
 
@@ -95,11 +89,6 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for m
 
 ---
 
-📌 *An academic GUI-based system focused on core CRUD operations, event-driven design, and C++/Qt integration — tailored for Operating System-based PBLs.*
+📌 *An academic GUI-based system focused on core CRUD operations, event-driven design, and C++/Qt integration*
 
-```
-
----
-
-Would you like me to help add badges (e.g., build passing, Qt version), generate sample screenshots, or auto-detect file structure from your actual GitHub repo?
 ```
