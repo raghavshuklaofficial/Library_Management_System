@@ -26,6 +26,24 @@ cd Library_Management_System
 
 ---
 
+## 🗃️ SQLite Database — `libraryDB.sqlite`
+
+This project uses a pre-built SQLite database file named `libraryDB.sqlite`, which is essential for the application to function.
+
+### 📂 File Location:
+
+Ensure that `libraryDB.sqlite` is placed in the **same directory** as the executable or `.pro` file, or correctly configured in your connection code.
+
+### 📋 Contains:
+
+* `Books` 📚 — Book ID, title, author, genre, availability
+* `Users` 👥 — User ID, name, email, and currently issued books
+* `Transactions` 🔁 — Issued date, return date, book-user mapping
+
+> ⚠️ **Do not delete or rename** this file unless you've updated the DB connection string in your code.
+
+---
+
 ## 🧩 Features Overview
 
 | 📌 **Feature**           | 🔍 **Description**                                                          |
@@ -51,7 +69,7 @@ Library_Management_System/
 ├── main.cpp                     # Application entry point
 ├── Library_System.pro           # Qt project file
 ├── icons/                       # UI icons and image assets
-├── database.db                  # SQLite database storing all data
+├── libraryDB.sqlite             # SQLite database storing all data
 └── README.md                    # Project documentation and setup guide
 ```
 
